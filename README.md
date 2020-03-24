@@ -6,6 +6,6 @@ To run the application.
 
 localhost:3000/course/add
 
-![Add image snap](https://github.com/jitunayak/NodeJs-with-Mongo-Demo/tree/master/snapshots/add.jpg)
+<img src=https://github.com/jitunayak/NodeJs-with-Mongo-Demo/tree/master/snapshots/add.jpg widht="390" height="500">
 ![Course list snap](https://github.com/jitunayak/NodeJs-with-Mongo-Demo/tree/master/snapshots/course_list.jpg)
 
